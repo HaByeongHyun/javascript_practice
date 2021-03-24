@@ -2,6 +2,7 @@
 
 // Q1
 {
+  // 배열 → 문자열 변경
   const fruits = ['apple', 'banana', 'orange'];
   console.log('Q1');
   const result = fruits.join(', ');
